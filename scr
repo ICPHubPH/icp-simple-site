@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Beach Background</title>
+  <style>
+    body {
+      background: url("https://png.pngtree.com/background/20230612/original/pngtree-beautiful-sandy-beach-on-the-ocean-on-3d-python-3ds-max-picture-image_3188305.jpg") no-repeat center/cover;
+      /* Adjust the image path and background properties as needed */
+    }
+  </style>
+</head>
+<body>
+  <!-- Content of your website goes here -->
+  
+  <h1>DEVCON 2024</h1>
+  <h2>Im Alpha Alana Villafania</h2>
+  <h3>From BSIT 2A</h3>
+  <p>Enjoy the stunning beach background of mine.</p>
+  
+</body>
+</html>
